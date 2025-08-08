@@ -19,7 +19,7 @@ export const Home = () => {
     return (
         <main className='home-container grid-center'>
             <section className='text-align'>
-                <h2 className='font'>Welcome to ViewTube</h2>
+                <h2 className='font'>Welcome to PlayTube</h2>
                 <Link to="explore">
                     <button className='explore-btn fs-16 m-tb-32'>Explore</button>
                 </Link>

@@ -27,7 +27,7 @@ export const Header = () => {
                 <Link to="/">
                     <section className='flex justify-center'>
                         <img className='vl-logo' src="/favicon.png" alt="logo-img" />
-                        <h2><span className='view-txt'>View</span><span className='tube-txt'>Tube</span></h2><sup className='superscript-txt'>IN</sup>
+                        <h2><span className='view-txt'>Play</span><span className='tube-txt'>Tube</span></h2><sup className='superscript-txt'>IN</sup>
                     </section>
                 </Link>
             </section>
