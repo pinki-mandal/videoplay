@@ -108,8 +108,8 @@ export const Login = () => {
                             onClick={() => {
                                 setError({ isError: false });
                                 setLoginDetail({
-                                    email: "manojkumar@gmail.com",
-                                    password: "manoj@12"
+                                    email: "pinkimandal@gmail.com",
+                                    password: "pinki@12"
                                 })
                             }}
                             className='login-btn'>
